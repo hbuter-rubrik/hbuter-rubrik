@@ -1,4 +1,5 @@
 ### Hey There, Harold aka vDutchy here 👋
+![Visitor Count](https://profile-counter.glitch.me/hbuter-rubrik/count.svg)
 
 I'm a Sales Engineer at Rubrik #briklayer who's trying to to automate things using PowerShell & Python. Each day you live you learn! The repos found here are mostly my scripts that I either use for demo's or scripts that I have used to help customers and the Rubrik community.
 <br>
