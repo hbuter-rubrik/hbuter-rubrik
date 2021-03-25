@@ -1,4 +1,4 @@
-### Hey There, Harold aka vDutchy here 👋
+### Hey There, Harold aka vDutchy here 👋       ![](https://komarev.com/ghpvc/?username=hbuter-rubrik&color=orange)
 
 
 I'm a Sales Engineer at Rubrik #briklayer who's trying to to automate things using PowerShell & Python. Each day you live you learn! The repos found here are mostly my scripts that I either use for demo's or scripts that I have used to help customers and the Rubrik community.
@@ -10,7 +10,7 @@ I'm a Sales Engineer at Rubrik #briklayer who's trying to to automate things usi
 ⚡ Fun fact: I'm Dutch but living in the UK on the south coast and I love to cycle but only when the weather is nice 😄 <br>
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=hbuter-rubrik&color=orange)
+
 
 <!--
 **hbuter-rubrik/hbuter-rubrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
