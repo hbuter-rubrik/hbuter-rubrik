@@ -1,12 +1,12 @@
 ### Hey There, Harold aka vDutchy here 👋
 
 I'm a Sales Engineer at Rubrik #briklayer who's trying to to automate things using PowerShell & Python. Each day you live you learn! The repos found here are mostly my scripts that I either use for demo's or scripts that I have used to help customers and the Rubrik community.
-
-
-🌱 I’m currently learning Python and reading "Automate the boring stuff with Python 2nd edition"
-👯 I’m trying to colloborate on Rubrik Build Powershell & Python repo, where I can and add some scripts 
-📫 How to reach me: Twitter @hbuter
-⚡ Fun fact: I'm Dutch but living in the UK on the south coast and I love to cycle but only when the weather is nice 😄 
+<br>
+<br>
+🌱 I’m currently learning Python and reading "Automate the boring stuff with Python 2nd edition"<br>
+👯 I’m trying to colloborate on Rubrik Build Powershell & Python repo, where I can and add some scripts<br> 
+📫 How to reach me: Twitter @hbuter<br>
+⚡ Fun fact: I'm Dutch but living in the UK on the south coast and I love to cycle but only when the weather is nice 😄 <br>
 
 <!--
 **hbuter-rubrik/hbuter-rubrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
