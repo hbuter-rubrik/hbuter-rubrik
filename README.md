@@ -5,7 +5,7 @@ I'm a Sales Engineer at Rubrik #briklayer who's trying to to automate things usi
 <br>
 🌱 I’m currently learning Python and reading "Automate the boring stuff with Python 2nd edition"<br>
 👯 I’m trying to colloborate on Rubrik Build Powershell & Python repo, where I can and add some scripts<br> 
-📫 How to reach me: Twitter @hbuter<br>
+📫 How to reach me: <a>href="https://twitter.com/hbuter">View My Twitter Profile </a></br>
 ⚡ Fun fact: I'm Dutch but living in the UK on the south coast and I love to cycle but only when the weather is nice 😄 <br>
 
 <!--
