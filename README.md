@@ -1,4 +1,4 @@
-### Hey There, Harold aka vDutchy here 👋 <p style="text-align: right">  ![](https://komarev.com/ghpvc/?username=hbuter-rubrik&color=orange)</p> <br>
+### Hey There, Harold aka vDutchy here 👋  ![](https://komarev.com/ghpvc/?username=hbuter-rubrik&color=orange&style=plastic)<br>
 
 
 I'm a Sales Engineer at Rubrik #briklayer who's trying to to automate things using PowerShell & Python. Each day you live you learn! The repos found here are mostly my scripts that I either use for demo's or scripts that I have used to help customers and the Rubrik community.
